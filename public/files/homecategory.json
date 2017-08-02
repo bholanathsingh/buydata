@@ -1,0 +1,693 @@
+﻿[{
+	"_id": "Accommodation Services",
+	"ancestors": [{
+		"ancestor": "Accommodation Brokers",
+		"listcount": 535
+	}, {
+		"ancestor": "Lodging",
+		"listcount": 1434
+	}, {
+		"ancestor": "Mansions"
+	}, {
+		"ancestor": "Men's Hostel",
+		"listcount": 13
+	}, {
+		"ancestor": "Paying Guest Accomodation",
+		"listcount": 155
+	}]
+}, {
+	"_id": "Arts & Entertainment",
+	"ancestors": [{
+		"ancestor": "Adventure Sports Theme Parks",
+		"listcount": 69
+	}, {
+		"ancestor": "Amusement & Theme Parks",
+		"listcount": 143
+	}, {
+		"ancestor": "Art Galleries & Crafts",
+		"listcount": 618
+	}, {
+		"ancestor": "Auditoriums",
+		"listcount": 189
+	}, {
+		"ancestor": "Casinos",
+		"listcount": 5
+	}]
+}, {
+	"_id": "Automotive",
+	"ancestors": [{
+		"ancestor": "Auto Rentals",
+		"listcount": 678
+	}, {
+		"ancestor": "Automobile Glass Dealers & Services",
+		"listcount": 334
+	}, {
+		"ancestor": "Automobile Lubricants & Oil Dealers",
+		"listcount": 1148
+	}, {
+		"ancestor": "Automobile Sticker Shops",
+		"listcount": 403
+	}, {
+		"ancestor": "Automotive Accessories Dealers",
+		"listcount": 9257
+	}]
+}, {
+	"_id": "Business Services",
+	"ancestors": [{
+		"ancestor": "3D Laser Scanning Services",
+		"listcount": 36
+	}, {
+		"ancestor": "AC Dealers",
+		"listcount": 1335
+	}, {
+		"ancestor": "AC Rentals",
+		"listcount": 1334
+	}, {
+		"ancestor": "AC Services",
+		"listcount": 0
+	}, {
+		"ancestor": "Accounting Services",
+		"listcount": 991
+	}]
+}, {
+	"_id": "City Attractions",
+	"ancestors": [{
+		"ancestor": "Amusement & Theme Parks",
+		"listcount": 0
+	}, {
+		"ancestor": "Arts & Entertainment",
+		"listcount": 0
+	}, {
+		"ancestor": "Bars",
+		"listcount": 1481
+	}, {
+		"ancestor": "City Attractions",
+		"listcount": 2656
+	}, {
+		"ancestor": "Food & Dining",
+		"listcount": 9228
+	}]
+}, {
+	"_id": "Clinics & Doctors",
+	"ancestors": [{
+		"ancestor": "24 Hour Clinics",
+		"listcount": 775
+	}, {
+		"ancestor": "Abortion Clinics",
+		"listcount": 31
+	}, {
+		"ancestor": "Acupuncture & Acupressure Doctors",
+		"listcount": 440
+	}, {
+		"ancestor": "Allergy Specialists",
+		"listcount": 41
+	}, {
+		"ancestor": "Anaesthetists",
+		"listcount": 160
+	}]
+}, {
+	"_id": "Clothing & Accessories Shops",
+	"ancestors": [{
+		"ancestor": "Apparel Accessory Shops",
+		"listcount": 1901
+	}, {
+		"ancestor": "Athletic Wear Shops",
+		"listcount": 211
+	}, {
+		"ancestor": "Baby's Clothing Shops",
+		"listcount": 690
+	}, {
+		"ancestor": "Boutiques",
+		"listcount": 2902
+	}, {
+		"ancestor": "Bridal Wear Designers",
+		"listcount": 92
+	}]
+}, {
+	"_id": "Coaching & Training",
+	"ancestors": [{
+		"ancestor": "Abacus & Mental Arithmetic Coaching",
+		"listcount": 49
+	}, {
+		"ancestor": "Bakery Classes",
+		"listcount": 37
+	}, {
+		"ancestor": "Coaching & Tuition Centers",
+		"listcount": 0
+	}, {
+		"ancestor": "Coaching & Tuitions",
+		"listcount": 2215
+	}, {
+		"ancestor": "Defence/Police Exam Coaching",
+		"listcount": 130
+	}]
+}, {
+	"_id": "Colleges & Universities",
+	"ancestors": [{
+		"ancestor": "Agricultural Colleges",
+		"listcount": 57
+	}, {
+		"ancestor": "Arts & Science Colleges",
+		"listcount": 2103
+	}, {
+		"ancestor": "Ayurvedic Colleges",
+		"listcount": 45
+	}, {
+		"ancestor": "Business Colleges",
+		"listcount": 2767
+	}, {
+		"ancestor": "Dental Colleges",
+		"listcount": 73
+	}]
+}, {
+	"_id": "Community & Social Services",
+	"ancestors": [{
+		"ancestor": "Adoption Agencies",
+		"listcount": 16
+	}, {
+		"ancestor": "Community Centres",
+		"listcount": 80
+	}, {
+		"ancestor": "Deaddiction & Rehabilitation Centres",
+		"listcount": 581
+	}, {
+		"ancestor": "Helplines",
+		"listcount": 110
+	}, {
+		"ancestor": "Home for Mentally Retarded",
+		"listcount": 58
+	}]
+}, {
+	"_id": "Computer Courses & Training",
+	"ancestors": [{
+		"ancestor": "Administration Training",
+		"listcount": 212
+	}, {
+		"ancestor": "Administration Training Centres",
+		"listcount": 209
+	}, {
+		"ancestor": "ANSYS Training",
+		"listcount": 21
+	}, {
+		"ancestor": "Business Intelligence & Analytics Training",
+		"listcount": 218
+	}, {
+		"ancestor": "Certification Courses Training",
+		"listcount": 228
+	}]
+}, {
+	"_id": "Computers & Mobiles",
+	"ancestors": [{
+		"ancestor": "Bulk SMS Providers",
+		"listcount": 599
+	}, {
+		"ancestor": "Computer Accessory Dealers",
+		"listcount": 5516
+	}, {
+		"ancestor": "Computer Dealers",
+		"listcount": 0
+	}, {
+		"ancestor": "Computer Rentals",
+		"listcount": 0
+	}, {
+		"ancestor": "Computer Repair & Services",
+		"listcount": 0
+	}]
+}, {
+	"_id": "Computers & Telecommunication Services",
+	"ancestors": [{
+		"ancestor": "Answering Machine Dealers",
+		"listcount": 13
+	}, {
+		"ancestor": "Browsing Centers",
+		"listcount": 4043
+	}, {
+		"ancestor": "Bulk Email Services",
+		"listcount": 270
+	}, {
+		"ancestor": "Cable Wire Connectors",
+		"listcount": 1610
+	}, {
+		"ancestor": "CD & DVD Replication",
+		"listcount": 46
+	}]
+}, {
+	"_id": "Curtains & Blinds",
+	"ancestors": [{
+		"ancestor": "Curtains & Blinds Dealers",
+		"listcount": 472
+	}, {
+		"ancestor": "Curtains & Blinds Installation Services",
+		"listcount": 401
+	}, {
+		"ancestor": "Curtains & Blinds Manufacturers",
+		"listcount": 190
+	}, {
+		"ancestor": "Sofa Cloth Dealers",
+		"listcount": 106
+	}]
+}, {
+	"_id": "Education & Training Centres",
+	"ancestors": [{
+		"ancestor": "Acting Schools",
+		"listcount": 315
+	}, {
+		"ancestor": "Art & Drama Schools",
+		"listcount": 0
+	}, {
+		"ancestor": "Art Schools",
+		"listcount": 66
+	}, {
+		"ancestor": "Book Banks",
+		"listcount": 119
+	}, {
+		"ancestor": "Educational Consultants",
+		"listcount": 1599
+	}]
+}, {
+	"_id": "Educational Supplies Dealers",
+	"ancestors": [{
+		"ancestor": "Art & Crafts Suppliers",
+		"listcount": 367
+	}, {
+		"ancestor": "Binding & Photocopy Shops",
+		"listcount": 8581
+	}, {
+		"ancestor": "Book Shops",
+		"listcount": 5765
+	}, {
+		"ancestor": "School Project Kits Suppliers",
+		"listcount": 29
+	}, {
+		"ancestor": "Stationeries",
+		"listcount": 2297
+	}]
+}, {
+	"_id": "Essential Services",
+	"ancestors": [{
+		"ancestor": "Bill Payment Centres",
+		"listcount": 433
+	}, {
+		"ancestor": "Cable TV Operators",
+		"listcount": 1844
+	}, {
+		"ancestor": "Direct to Home (DTH) Services",
+		"listcount": 0
+	}, {
+		"ancestor": "Electricity Board Services",
+		"listcount": 586
+	}, {
+		"ancestor": "Facility Management Services",
+		"listcount": 785
+	}]
+}, {
+	"_id": "Food & Dining",
+	"ancestors": [{
+		"ancestor": "Bajji Corners",
+		"listcount": 11
+	}, {
+		"ancestor": "Bakeries",
+		"listcount": 8424
+	}, {
+		"ancestor": "Bars",
+		"listcount": 0
+	}, {
+		"ancestor": "Cake Shops",
+		"listcount": 2472
+	}, {
+		"ancestor": "Chocolates & Ice Cream Parlours",
+		"listcount": 943
+	}]
+}, {
+	"_id": "Health Services & Medicine",
+	"ancestors": [{
+		"ancestor": "AIDS & HIV Centers",
+		"listcount": 157
+	}, {
+		"ancestor": "Alternative Medicine Suppliers",
+		"listcount": 276
+	}, {
+		"ancestor": "Ambulance Services",
+		"listcount": 487
+	}, {
+		"ancestor": "Ayurvedic Product Dealers",
+		"listcount": 359
+	}, {
+		"ancestor": "BioMagnetic Therapy",
+		"listcount": 13
+	}]
+}, {
+	"_id": "Home - Products & Services",
+	"ancestors": [{
+		"ancestor": "Camera Repair & Services",
+		"listcount": 415
+	}, {
+		"ancestor": "Crockery Shops",
+		"listcount": 1742
+	}, {
+		"ancestor": "Domestic & Industrial Flour Mills",
+		"listcount": 605
+	}, {
+		"ancestor": "Dry Cleaners & Laundry Services",
+		"listcount": 6535
+	}, {
+		"ancestor": "Flask Dealers",
+		"listcount": 26
+	}]
+}, {
+	"_id": "Home Accessories & Decors",
+	"ancestors": [{
+		"ancestor": "Antique Dealers",
+		"listcount": 38
+	}, {
+		"ancestor": "Carpet Dealers",
+		"listcount": 1034
+	}, {
+		"ancestor": "CFL Tubes Dealers",
+		"listcount": 73
+	}, {
+		"ancestor": "Construction Material Lifting Equipment Dealers",
+		"listcount": 340
+	}, {
+		"ancestor": "Cutting Tools",
+		"listcount": 1547
+	}]
+}, {
+	"_id": "Home Construction & Renovation",
+	"ancestors": [{
+		"ancestor": "Architects",
+		"listcount": 876
+	}, {
+		"ancestor": "Bathroom Accessories & Sanitaryware Dealers",
+		"listcount": 7780
+	}, {
+		"ancestor": "Bathroom Accessories Manufacturers",
+		"listcount": 80
+	}, {
+		"ancestor": "Bison Panel Suppliers",
+		"listcount": 7
+	}, {
+		"ancestor": "Borewell Contractors",
+		"listcount": 205
+	}]
+}, {
+	"_id": "Home Decoration & Furniture",
+	"ancestors": [{
+		"ancestor": "Art & Decor",
+		"listcount": 335
+	}, {
+		"ancestor": "Home Furniture Dealers",
+		"listcount": 952
+	}, {
+		"ancestor": "Interior Designers & Decorators",
+		"listcount": 119
+	}]
+}, {
+	"_id": "Home Maintenance & Services",
+	"ancestors": [{
+		"ancestor": "Automatic Water Level Controllers",
+		"listcount": 200
+	}, {
+		"ancestor": "Bulk Water Supply Services",
+		"listcount": 365
+	}, {
+		"ancestor": "Electrical Contractors",
+		"listcount": 5193
+	}, {
+		"ancestor": "Electrical Motor Service Centres",
+		"listcount": 156
+	}, {
+		"ancestor": "Electrical Motor Services",
+		"listcount": 1307
+	}]
+}, {
+	"_id": "Home Services",
+	"ancestors": [{
+		"ancestor": "Day Care Centres",
+		"listcount": 795
+	}, {
+		"ancestor": "Domestic Help Services",
+		"listcount": 0
+	}, {
+		"ancestor": "Home Appliances Repair & Services",
+		"listcount": 1172
+	}, {
+		"ancestor": "Home appliances service centres",
+		"listcount": 17904
+	}, {
+		"ancestor": "Home Automation Systems",
+		"listcount": 175
+	}]
+}, {
+	"_id": "Hospitals & Medical Centers",
+	"ancestors": [{
+		"ancestor": "Birth Centers",
+		"listcount": 270
+	}, {
+		"ancestor": "Cancer Hospitals",
+		"listcount": 423
+	}, {
+		"ancestor": "Cardiology Hospitals",
+		"listcount": 189
+	}, {
+		"ancestor": "Children's Hospitals",
+		"listcount": 175
+	}, {
+		"ancestor": "Dialysis Centres",
+		"listcount": 34
+	}]
+}, {
+	"_id": "Legal & Financial Services",
+	"ancestors": [{
+		"ancestor": "Arbitration Services",
+		"listcount": 43
+	}, {
+		"ancestor": "ATMs",
+		"listcount": 4045
+	}, {
+		"ancestor": "Bank Drop Boxes",
+		"listcount": 10
+	}, {
+		"ancestor": "Banks",
+		"listcount": 19935
+	}, {
+		"ancestor": "Co-op Housing Society Billing & Accounting",
+		"listcount": 232
+	}]
+}, {
+	"_id": "Online Coaching & Training",
+	"ancestors": [{
+		"ancestor": "Competitive Exams Online Coaching",
+		"listcount": 297
+	}, {
+		"ancestor": "Language Online Training",
+		"listcount": 55
+	}, {
+		"ancestor": "Online Engineering Entrance Coaching",
+		"listcount": 15
+	}, {
+		"ancestor": "Online Health Courses",
+		"listcount": 6
+	}, {
+		"ancestor": "Online Higher Education Courses",
+		"listcount": 18
+	}]
+}, {
+	"_id": "Online Computer Courses & Training",
+	"ancestors": [{
+		"ancestor": "Adobe Online Training",
+		"listcount": 15
+	}, {
+		"ancestor": "Big Data Analytics Online Training",
+		"listcount": 273
+	}, {
+		"ancestor": "Business Intelligence Online Training",
+		"listcount": 29
+	}, {
+		"ancestor": "Certification Courses Online Training",
+		"listcount": 8
+	}, {
+		"ancestor": "CISCO Certification Online Training",
+		"listcount": 32
+	}]
+}, {
+	"_id": "Outdoor Decoration & Furniture",
+	"ancestors": [{
+		"ancestor": "Landscaping Contractors",
+		"listcount": 1082
+	}, {
+		"ancestor": "Tents & Canopies Dealers",
+		"listcount": 427
+	}]
+}, {
+	"_id": "Painting Works",
+	"ancestors": [{
+		"ancestor": "Paint Shops",
+		"listcount": 4421
+	}, {
+		"ancestor": "Painting Contractors",
+		"listcount": 6550
+	}]
+}, {
+	"_id": "Parties, Special Occasions & Wedding",
+	"ancestors": [{
+		"ancestor": "Artificial Flower Shops",
+		"listcount": 294
+	}, {
+		"ancestor": "Astrologers",
+		"listcount": 0
+	}, {
+		"ancestor": "Bridal Shops",
+		"listcount": 1594
+	}, {
+		"ancestor": "Catering Services",
+		"listcount": 1406
+	}, {
+		"ancestor": "Chocolate Gift Pack Suppliers",
+		"listcount": 130
+	}]
+}, {
+	"_id": "Personal Care & Services",
+	"ancestors": [{
+		"ancestor": "Aerobics Centres",
+		"listcount": 307
+	}, {
+		"ancestor": "Aromatherapy Centres",
+		"listcount": 42
+	}, {
+		"ancestor": "Ayurvedic Health Centres",
+		"listcount": 4285
+	}, {
+		"ancestor": "Bath & Body Product Dealers",
+		"listcount": 73
+	}, {
+		"ancestor": "Cosmetic Shops",
+		"listcount": 5711
+	}]
+}, {
+	"_id": "Personal Finance Services",
+	"ancestors": [{
+		"ancestor": "Business Loans",
+		"listcount": 0
+	}, {
+		"ancestor": "Car Loans",
+		"listcount": 0
+	}, {
+		"ancestor": "Certified Financial Planner (CFP) Services",
+		"listcount": 0
+	}, {
+		"ancestor": "Construction Loans",
+		"listcount": 0
+	}, {
+		"ancestor": "Education Loans",
+		"listcount": 0
+	}]
+}, {
+	"_id": "Pet & Pets Care",
+	"ancestors": [{
+		"ancestor": "Aquarium & Aquarium Supplies Dealers",
+		"listcount": 1203
+	}, {
+		"ancestor": "Aquarium Services",
+		"listcount": 13
+	}, {
+		"ancestor": "Pet Accessories Dealers",
+		"listcount": 137
+	}, {
+		"ancestor": "Pet Clinics",
+		"listcount": 282
+	}, {
+		"ancestor": "Pet Food Suppliers",
+		"listcount": 192
+	}]
+}, {
+	"_id": "Real Estate",
+	"ancestors": [{
+		"ancestor": "Apartment Promoters",
+		"listcount": 443
+	}, {
+		"ancestor": "Building Machinery Rentals",
+		"listcount": 553
+	}, {
+		"ancestor": "Building Maintenance Services",
+		"listcount": 164
+	}, {
+		"ancestor": "Building Plan Sanction",
+		"listcount": 79
+	}, {
+		"ancestor": "Concrete Core Cutting Drill Suppliers",
+		"listcount": 126
+	}]
+}, {
+	"_id": "Retail Shopping",
+	"ancestors": [{
+		"ancestor": "Antique Clock Dealers",
+		"listcount": 11
+	}, {
+		"ancestor": "Antique Shops",
+		"listcount": 174
+	}, {
+		"ancestor": "Astrology Products Suppliers",
+		"listcount": 1632
+	}, {
+		"ancestor": "Baby's Product Shops",
+		"listcount": 734
+	}, {
+		"ancestor": "Branded Stores",
+		"listcount": 321
+	}]
+}, {
+	"_id": "Schools",
+	"ancestors": [{
+		"ancestor": "Anglo Indian Schools",
+		"listcount": 47
+	}, {
+		"ancestor": "CBSE Schools",
+		"listcount": 0
+	}, {
+		"ancestor": "ICSE Schools",
+		"listcount": 532
+	}, {
+		"ancestor": "International Schools",
+		"listcount": 325
+	}, {
+		"ancestor": "Kindergarten (KG) Schools",
+		"listcount": 0
+	}]
+}, {
+	"_id": "Tours & Travels",
+	"ancestors": [{
+		"ancestor": "Air Travel Agents",
+		"listcount": 5886
+	}, {
+		"ancestor": "Bus Transport Services",
+		"listcount": 337
+	}, {
+		"ancestor": "Bus Travel Agents",
+		"listcount": 7589
+	}, {
+		"ancestor": "Caravan Rentals",
+		"listcount": 24
+	}, {
+		"ancestor": "Cottages",
+		"listcount": 26
+	}]
+}, {
+	"_id": "Travel & Transportation",
+	"ancestors": [{
+		"ancestor": "Adventure Tour Operators",
+		"listcount": 292
+	}, {
+		"ancestor": "Airlines",
+		"listcount": 825
+	}, {
+		"ancestor": "Airlines & Airports",
+		"listcount": 823
+	}, {
+		"ancestor": "Airports",
+		"listcount": 24
+	}, {
+		"ancestor": "Consulates & Embassies",
+		"listcount": 344
+	}]
+}]

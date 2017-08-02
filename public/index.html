@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <base href="/" />
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+    <title ng-bind="title">GS e-know</title>
+    <link href="style/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="style/home.css" rel="stylesheet" type="text/css" />
+    <link href="style/common-style.css" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/jquery.bxSlider.min.js"></script>
+    <script src="js/jquery.bxslider.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyBlltb6xFP7Fup0QGcj0ln0Wz2bGM9i-ds"></script>
+
+
+    <!--Angular Js Controller-->
+
+    <script src="Scripts/angular.js" charset="utf-8"></script>
+    <script src="Scripts/angular-route.js"></script>
+    <script src="Scripts/angular.cookies.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-resource.js"></script>
+    <script src="Scripts/bootstrappaging.js"></script>
+
+    <!--<script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.js"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.5.0/lodash.js" charset="utf-8"></script>
+    <script src="Scripts/AngularController/angularjs-google-maps.js" charset="utf-8"></script>
+    <script src="Scripts/AngularController/angular-google-maps.js"></script>
+    <script src="Scripts/ng-infinite-scroll.min.js"></script>
+    <script src="Scripts/AngularController/App.js"></script>
+    <script src="Scripts/AngularController/common/config.js"></script>
+    <script src="Scripts/AngularController/Controller/MainController.js"></script>
+    <script src="Scripts/AngularController/Factory/userfactory.js"></script>
+    <script src="Scripts/AngularController/Factory/HomeFactory.js"></script>
+    <script src="Scripts/AngularController/Factory/ProfileFactory.js"></script>
+    <script src="Scripts/AngularController/Factory/ContactusFactory.js"></script>
+    <script src="Scripts/AngularController/Factory/EnqueryFactory.js"></script>
+
+
+</head>
+
+
+<body ng-app="PM">
+    <!--Header--->
+
+    <header>
+        <nav class="navbar-fluid navbar-default navbar-fixed-top">
+            <div class="container">
+               <!-- <div class="megamenu">
+                    <a class="category"><i class="fa fa-bars" aria-hidden="true"></i></a>
+                    <div class="megamenu-drop">
+                        <div class="select-cat">Select Category</div>
+                        <ul>
+                            <li ng-repeat="menu in MCategoryList" ng-class="{active: $index==0}">
+                                <a ng-click="SearchResultByMainMenu(menu.menu,'','')">{{menu.menu}}</a>
+                                <span class="mega-subbox" ng-if="menu.submenu.length>0">
+                                            <ul class="mega-sub" ng-repeat="submenu in menu.submenu | limitTo: 12 track by $index">
+                                                <li>
+                                                    <a ng-click="SearchResultByMainMenu(menu.menu,submenu._id,'')"> <h4>{{submenu._id}} </h4></a>
+                                                </li>
+                                                <li ng-repeat="cate in submenu.ancestors | limitTo: 8 track by $index"><a ng-click="SearchResultByMainMenu(menu.menu,submenu._id,cate)">{{cate}}</a></li>
+                                            </ul>
+                                        </span>
+                            </li>
+                            <li>
+                                <a href="/fulldirectory"><b> Full Directory </b> </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div> -->
+
+               <a href="/" class="navbar-brand"><img src="images/logo.png" alt="logo" /></a>
+  
+                <p class="navbar-right navbar-text" ng-hide="authenticated"><a href="/login"> <strong> Login </strong> <i class="fa fa-sign-in "></i></a></p>
+                <p class="navbar-right navbar-text" ng-hide="authenticated"><a href="/register"><strong> List Your Business </strong><i class="fa fa-id-card "></i></a></p>
+
+
+                <p class="navbar-right navbar-text" ng-show="authenticated"><a style="cursor: pointer" ng-click="signout()"> <strong> Logout </strong> <i class="fa fa-sign-out "></i> </a></p>
+                <p class="navbar-right navbar-text" ng-show="authenticated"><a style="cursor: pointer"  href="/dashboard"> Welcome <strong> <label ng-bind="current_user"></label> <i class="fa fa-address-card " aria-hidden="true"></i> </strong> </a></p>
+
+
+            </div>
+        </nav>
+
+    </header>
+
+
+    <div class=ng-view autoscroll="true">
+    </div>
+    <!--Footer-->
+    <div class="footer-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <center>
+                        <a class="fa fa-facebook fa-2x" aria-hidden="true"></i></a> <a class="social-icons"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a> <a class="social-icons"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a> <a class="social-icons"><i class="fa fa-rss fa-2x" aria-hidden="true"></i></a>
+
+                    </center>
+                    <center>
+                        <a href="/">Home</a> |
+                        <a href="/aboutus">About Us</a> |
+                        <a href="/forum">Forum</a> |
+                        <a href="/tagindex">Tag Index</a> |
+                        <a href="/contactus">Contact Us</a> |
+                        <a href="/service">Service</a> |
+                        <a href="/dashboard">dashboard</a>
+                    </center>
+
+
+                </div>
+
+            </div>
+        </div>
+        <div class=" container-fluid footer-btm-strip">&copy; 2017 All right reserved. Design  by GS e-know.com</div>
+        <!--<div class="map-cont">-->
+        <!--<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.4729984028245!2d77.38398231546252!3d28.615582691598043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cef8cc516f5b7%3A0x5652abd35ff21e74!2sMagnon+Solutions+Pvt+Ltd!5e0!3m2!1sen!2sin!4v1480425601667" width="100%" height="1000" frameborder="0" style="border:0" allowfullscreen=allowfullscreen></iframe>-->
+        <!--</div>-->
+    </div>
+
+    <div class="overlaw-pop"></div>
+
+</body>
+
+</html>

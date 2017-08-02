@@ -1,0 +1,110 @@
+{
+  "_id" : "58aad4226554221aa81088ce",
+  "id":1,
+  "ProfileUrl":"",
+  "ProfileTitle" : "Bharti Beauty Parlour",
+  "ProfileImage" : "",
+  "IndustryType" : "Personal Care & Services",
+  "Category" : "Women Beauty Parlours",
+  "SubCategory" : "Hair Care Treatment Services for Women",
+  "Expertise" : "",
+
+  "Address_1" : "No. 1   Narmada Sadan Road",
+  "Address_2" : "Vadgaon",
+  "Landmark" : "Near Ganesh Mandir",
+  "Location" : "Vadgaon",
+  "Country" : "India",
+  "State" : "Maharashtra",
+  "City" : "Pune",
+  "Pincode" : 411041,
+  "LOC" : {
+    "coordinates" : [
+      18.466658,
+      73.825867
+    ],
+    "type" : "Point"
+  },
+
+
+
+  "Experience" : "",
+  "Accredation" : "",
+
+  "Speciality" : "",
+
+
+  "DoYouServeOnline" : false,
+
+
+
+  "AdditionalInfo" : [
+    ""
+  ],
+  "AverageRating" :0,
+  "TotalReview" :0,
+  ,
+  "LanguageKnows" : [
+    ""
+  ],
+
+  "AreaServed" : [
+    ""
+  ],
+
+  "ExpertiseBusinessKeywords" : [
+    "Women Beauty Parlours",
+    " Bridal Make Up Services ",
+    " Hair Care Treatment Services for Women ",
+    " Facial Services for Women"
+  ]
+}
+
+
+
+
+othser tables
+
+
+
+"HoursDaysOfOperation" : "Monday - Sunday: 11 AM - 8 PM ( Lunch: 1.30 PM - 2.30 PM )",
+
+"Contact_Person" : "Bharti",
+"ContactPersonDesignation" : "",
+"MobileCountryCode" : "91",
+"PrimaryMobileNumber" : "9545468176",
+"Landline" : "",
+"FaxNumber" : "",
+"PrimaryEmail" : "",
+"Website" : "",
+"AboutYouDescription" : "",
+"PageViewCount" : null,
+"NumberOfClients" : null,
+"Qualification" : "",
+"CreateBy" : "BholaNathSingh",
+"CurrentStatus" : "Created",
+"IsActive" : true,
+"CreatedDate" : "2016-10-21T22:00:00.000Z",
+"RatingsReviews" : [
+""
+],
+
+"Gallery" : [
+""
+]
+,
+
+"ModesOfPayment" : [
+""
+],
+
+"SocialPages" : [
+""
+],
+"Links" : [ ],
+"OtherEmail" : [
+""
+],
+"OtherMobile" : [
+""
+],
+
